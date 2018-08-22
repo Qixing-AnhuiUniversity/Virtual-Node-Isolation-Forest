@@ -1,6 +1,6 @@
 "Extended Isolation forest functions"
 
-__author__ = 'Matias Carrasco Kind & Sahand Hariri'
+__author__ = 'Matias Carrasco Kind & Sahand Hariri & Qi Xing'
 import numpy as np
 import random as rn
 import os
