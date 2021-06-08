@@ -1,5 +1,5 @@
 # Virtual-Node-Isolation-Forest
-This is the source code of "Virtual Node Isolation Forest", an one-class novelty detection method.
+This is the source code of "Virtual Node Isolation Forest", an one-class novelty detection method. Author:Qi Xing and Matias.
 
 1：unzip the 'A_simple_demo_VNif_VNeif.zip' file.
 
